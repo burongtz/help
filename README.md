@@ -1,2 +1,2 @@
-# help
-Codigos de ayuda
+# Random Help Codes
+Pieces of code
